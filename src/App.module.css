@@ -1,0 +1,19 @@
+.app {
+    text-align: center;
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .title {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  @media (max-width: 600px) {
+    .title {
+      font-size: 1.5rem;
+    }
+  }
+  
